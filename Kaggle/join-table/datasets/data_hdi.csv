@@ -1,0 +1,196 @@
+HDI rank,Country,Value
+1,Norway,0.953
+2,Switzerland,0.944
+3,Australia,0.939
+4,Ireland,0.938
+5,Germany,0.936
+6,Iceland,0.935
+7,"Hong Kong, China (SAR)",0.933
+7,Sweden,0.933
+9,Singapore,0.932
+10,Netherlands,0.931
+11,Denmark,0.929
+12,Canada,0.926
+13,United States,0.924
+14,United Kingdom,0.922
+15,Finland,0.920
+16,New Zealand,0.917
+17,Belgium,0.916
+17,Liechtenstein,0.916
+19,Japan,0.909
+20,Austria,0.908
+21,Luxembourg,0.904
+22,Israel,0.903
+22,Korea (Republic of),0.903
+24,France,0.901
+25,Slovenia,0.896
+26,Spain,0.891
+27,Czechia,0.888
+28,Italy,0.880
+29,Malta,0.878
+30,Estonia,0.871
+31,Greece,0.870
+32,Cyprus,0.869
+33,Poland,0.865
+34,United Arab Emirates,0.863
+35,Andorra,0.858
+35,Lithuania,0.858
+37,Qatar,0.856
+38,Slovakia,0.855
+39,Brunei Darussalam,0.853
+39,Saudi Arabia,0.853
+41,Latvia,0.847
+41,Portugal,0.847
+43,Bahrain,0.846
+44,Chile,0.843
+45,Hungary,0.838
+46,Croatia,0.831
+47,Argentina,0.825
+48,Oman,0.821
+49,Russian Federation,0.816
+50,Montenegro,0.814
+51,Bulgaria,0.813
+52,Romania,0.811
+53,Belarus,0.808
+54,Bahamas,0.807
+55,Uruguay,0.804
+56,Kuwait,0.803
+57,Malaysia,0.802
+58,Barbados,0.800
+58,Kazakhstan,0.800
+60,Iran (Islamic Republic of),0.798
+60,Palau,0.798
+62,Seychelles,0.797
+63,Costa Rica,0.794
+64,Turkey,0.791
+65,Mauritius,0.790
+66,Panama,0.789
+67,Serbia,0.787
+68,Albania,0.785
+69,Trinidad and Tobago,0.784
+70,Antigua and Barbuda,0.780
+70,Georgia,0.780
+72,Saint Kitts and Nevis,0.778
+73,Cuba,0.777
+74,Mexico,0.774
+75,Grenada,0.772
+76,Sri Lanka,0.770
+77,Bosnia and Herzegovina,0.768
+78,Venezuela (Bolivarian Republic of),0.761
+79,Brazil,0.759
+80,Azerbaijan,0.757
+80,Lebanon,0.757
+80,The former Yugoslav Republic of Macedonia,0.757
+83,Armenia,0.755
+83,Thailand,0.755
+85,Algeria,0.754
+86,China,0.752
+86,Ecuador,0.752
+88,Ukraine,0.751
+89,Peru,0.750
+90,Colombia,0.747
+90,Saint Lucia,0.747
+92,Fiji,0.741
+92,Mongolia,0.741
+94,Dominican Republic,0.736
+95,Jordan,0.735
+95,Tunisia,0.735
+97,Jamaica,0.732
+98,Tonga,0.726
+99,Saint Vincent and the Grenadines,0.723
+100,Suriname,0.720
+101,Botswana,0.717
+101,Maldives,0.717
+103,Dominica,0.715
+104,Samoa,0.713
+105,Uzbekistan,0.710
+106,Belize,0.708
+106,Marshall Islands,0.708
+108,Libya,0.706
+108,Turkmenistan,0.706
+110,Gabon,0.702
+110,Paraguay,0.702
+112,Moldova (Republic of),0.700
+113,Philippines,0.699
+113,South Africa,0.699
+115,Egypt,0.696
+116,Indonesia,0.694
+116,Viet Nam,0.694
+118,Bolivia (Plurinational State of),0.693
+119,"Palestine, State of",0.686
+120,Iraq,0.685
+121,El Salvador,0.674
+122,Kyrgyzstan,0.672
+123,Morocco,0.667
+124,Nicaragua,0.658
+125,Cabo Verde,0.654
+125,Guyana,0.654
+127,Guatemala,0.650
+127,Tajikistan,0.650
+129,Namibia,0.647
+130,India,0.640
+131,Micronesia (Federated States of),0.627
+132,Timor-Leste,0.625
+133,Honduras,0.617
+134,Bhutan,0.612
+134,Kiribati,0.612
+136,Bangladesh,0.608
+137,Congo,0.606
+138,Vanuatu,0.603
+139,Lao People's Democratic Republic,0.601
+140,Ghana,0.592
+141,Equatorial Guinea,0.591
+142,Kenya,0.590
+143,Sao Tome and Principe,0.589
+144,Eswatini (Kingdom of),0.588
+144,Zambia,0.588
+146,Cambodia,0.582
+147,Angola,0.581
+148,Myanmar,0.578
+149,Nepal,0.574
+150,Pakistan,0.562
+151,Cameroon,0.556
+152,Solomon Islands,0.546
+153,Papua New Guinea,0.544
+154,Tanzania (United Republic of),0.538
+155,Syrian Arab Republic,0.536
+156,Zimbabwe,0.535
+157,Nigeria,0.532
+158,Rwanda,0.524
+159,Lesotho,0.520
+159,Mauritania,0.520
+161,Madagascar,0.519
+162,Uganda,0.516
+163,Benin,0.515
+164,Senegal,0.505
+165,Comoros,0.503
+165,Togo,0.503
+167,Sudan,0.502
+168,Afghanistan,0.498
+168,Haiti,0.498
+170,Côte d'Ivoire,0.492
+171,Malawi,0.477
+172,Djibouti,0.476
+173,Ethiopia,0.463
+174,Gambia,0.460
+175,Guinea,0.459
+176,Congo (Democratic Republic of the),0.457
+177,Guinea-Bissau,0.455
+178,Yemen,0.452
+179,Eritrea,0.440
+180,Mozambique,0.437
+181,Liberia,0.435
+182,Mali,0.427
+183,Burkina Faso,0.423
+184,Sierra Leone,0.419
+185,Burundi,0.417
+186,Chad,0.404
+187,South Sudan,0.388
+188,Central African Republic,0.367
+189,Niger,0.354
+..,Korea (Democratic People's Rep. of),..
+..,Monaco,..
+..,Nauru,..
+..,San Marino,..
+..,Somalia,..
+..,Tuvalu,..
