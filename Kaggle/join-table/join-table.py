@@ -36,14 +36,10 @@ def add_column(new_path, base_path, new_col_name, base_col_name, col_pos, new_na
         try:
             new_col.append(new_data[i].iloc[0, col_pos])
         except:
-            try:
-                if row[base_col_name] in country_name_mappings:
-                    i = new_data[new_col_name] == country_name_mappings[row[base_col_name]]
-                    new_col.append(new_data[i].iloc[0, col_pos]
-                # WHYYYYYYYYYY
-                else:
-                    new_col.append(np.nan)
-            except:      
+            if row[base_col_name] in country_name_mappings:
+                i = new_data[new_col_name] == country_name_mappings[row[base_col_name]]
+                new_col.append(new_data[i].iloc[0, col_pos])
+            else:
                 new_col.append(np.nan)
     base_data[new_name] = new_col
     base_data.to_csv(base_path + '_updated.csv')
