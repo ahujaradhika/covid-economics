@@ -38,7 +38,10 @@ def add_column(new_path, base_path, new_col_name, base_col_name, col_pos, new_na
         except:
             if row[base_col_name] in country_name_mappings:
                 i = new_data[new_col_name] == country_name_mappings[row[base_col_name]]
-                new_col.append(new_data[i].iloc[0, col_pos])
+                try:
+                    new_col.append(new_data[i].iloc[0, col_pos])
+                except:
+                    new_col.append(np.nan)
             else:
                 new_col.append(np.nan)
     base_data[new_name] = new_col
@@ -56,6 +59,11 @@ def add_column(new_path, base_path, new_col_name, base_col_name, col_pos, new_na
 # pop_density_path = 'datasets/data_population_density'
 # add_column(pop_density_path, base_path, 'Country Name', 'Country_Region', 62, 'Population Density')
 
-#get health expenditure
-health_expenditure_path = 'datasets/data_health_expenditure'
-add_column(health_expenditure_path, base_path, 'Country Name', 'Country_Region', 2, 'Govt. Health Expenditure (%% of GDP)')
+# # get health expenditure
+# health_expenditure_path = 'datasets/data_health_expenditure'
+# add_column(health_expenditure_path, base_path, 'Country Name', 'Country_Region', 2, 'Govt. Health Expenditure (%% of GDP)')
+
+# get total testing data and testing per million
+total_testing_path = 'datasets/data_testing'
+# add_column(total_testing_path, base_path, 'Country or region', 'Country_Region', 1, 'Total Testing')
+add_column(total_testing_path, base_path, 'Country or region', 'Country_Region', 4, 'Tests per million')
